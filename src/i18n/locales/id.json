@@ -1,0 +1,199 @@
+{
+  "nav": {
+    "work": "Karya",
+    "about": "Tentang",
+    "writing": "Tulisan",
+    "downloadResume": "Unduh CV",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "greeting": "Halo, saya Fandi Bayu 👋🏻",
+    "line1": "Saya UI/UX Designer, UI/UX Engineer, dan Web Designer dengan pengalaman 3+ tahun, berbasis di Jakarta, Indonesia.",
+    "line2": "Saya mendesain dan membangun pengalaman dashboard & web app—cepat, terstruktur, dan berbantuan AI.",
+    "aboutMe": "Tentang Saya",
+    "downloadResume": "Unduh CV",
+    "motto": "Dan… ya, saya bisa menghabiskan waktu lama menyempurnakan spacing 😝",
+    "subheading": "UI/UX Designer dan Web Designer di Jakarta yang mengkhususkan diri pada dashboard dan aplikasi web.",
+    "viewWork": "Lihat Karya",
+    "playful": "Mendesain antarmuka yang benar-benar nyaman dipakai.",
+    "previewImage": "Pratinjau gambar",
+    "close": "Tutup",
+    "projectPreview": "Pratinjau proyek"
+  },
+  "featured": {
+    "title": "Karya Terbaru",
+    "viewCaseStudy": "Lihat studi kasus",
+    "tabAll": "Semua",
+    "tabWebApp": "Web App",
+    "tabLandingPage": "Landing Page",
+    "tabDashboard": "Dashboard",
+    "tabMobileApp": "Mobile App",
+    "noProjectsInCategory": "Belum ada proyek di kategori ini."
+  },
+  "prototypes": {
+    "title": "Prototipe & Interaksi",
+    "try": "Coba",
+    "view": "Lihat"
+  },
+  "upwork": {
+    "title": "Mari bekerja bersama",
+    "subtitle": "Terbukti di Upwork — siap untuk proyek Anda",
+    "earned": "$10k+ penghasilan",
+    "clients": "10+ klien",
+    "hours": "~1600 jam",
+    "primaryCta": "Booking kerja sama",
+    "secondaryCta": "Kunjungi sekarang",
+    "profileImageAlt": "Screenshot profil Upwork"
+  },
+  "writing": {
+    "title": "Tulisan",
+    "readMore": "Baca selengkapnya",
+    "source": "Sumber: Medium",
+    "dummyNote": "daftar dummy. Ganti dengan postingan asli.",
+    "allWriting": "Semua tulisan",
+    "posts": {
+      "designSystemBasics": {
+        "title": "Membangun design system dari awal",
+        "excerpt": "Bagaimana kami mendefinisikan tokens, komponen, dan dokumentasi untuk tim produk yang berkembang.",
+        "date": "15 Januari 2024"
+      },
+      "dashboardUxTips": {
+        "title": "Dashboard UX: apa yang benar-benar berpengaruh",
+        "excerpt": "Pelajaran dari mendesain antarmuka analitik dan pelaporan untuk pengguna B2B.",
+        "date": "2 November 2023"
+      },
+      "figmaToCode": {
+        "title": "Dari Figma ke code dengan gesekan lebih sedikit",
+        "excerpt": "Alur kerja praktis untuk UI/UX designer yang juga mengirimkan front-end.",
+        "date": "20 September 2023"
+      },
+      "accessibilityChecklist": {
+        "title": "Checklist aksesibilitas sederhana untuk web apps",
+        "excerpt": "Manajemen fokus, kontras, dan navigasi keyboard dalam UI sehari-hari.",
+        "date": "8 Juli 2023"
+      },
+      "jakartaDesignScene": {
+        "title": "Adegan desain di Jakarta: pandangan singkat",
+        "excerpt": "Observasi tentang remote work, tools, dan kolaborasi dari Indonesia.",
+        "date": "1 Mei 2023"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Saya pernah bekerja dengan",
+    "prev": "Sebelumnya",
+    "next": "Selanjutnya"
+  },
+  "footer": {
+    "headline": "Silakan hubungi — saya siap membantu mendesain atau membangun produk Anda berikutnya.",
+    "email": "fandi.bayu110@gmail.com",
+    "work": "Karya",
+    "about": "Tentang",
+    "writing": "Tulisan",
+    "resume": "CV",
+    "scrollToTop": "Scroll ke atas"
+  },
+  "work": {
+    "title": "Karya",
+    "meta": "Studi kasus dan proyek pilihan"
+  },
+  "about": {
+    "title": "Tentang",
+    "meta": "Kenali Fandi Bayu lebih dekat",
+    "iLike": "Saya Suka",
+    "greeting": "Hai, saya Fandi. Senang bertemu!",
+    "intro": "Saya adalah UI/UX Designer & UI/UX Engineer berbasis di Jakarta dengan pengalaman 3+ tahun, yang berfokus pada dashboard dan web application. Saya bekerja di persimpangan antara desain, teknologi, dan AI untuk menciptakan pengalaman yang bersih, terstruktur, dan scalable—selaras dengan kebutuhan pengguna dan tujuan bisnis.",
+    "intro2": "Dengan latar belakang desain sekaligus pemahaman teknis, saya tidak hanya memikirkan visual, tetapi juga usability, struktur sistem, dan feasibility sejak awal proses. Saya aktif mengintegrasikan tools AI seperti ChatGPT dalam workflow untuk mempercepat riset dan ideasi, tanpa meninggalkan pendekatan human-centered.",
+    
+    "myValues": "Nilai-nilai saya",
+    "value1Title": "Berempati dengan orang lain",
+    "value1Desc": "Sebagai desainer, penting untuk memiliki kemampuan berempati dengan orang lain dan bekerja dengan berbagai macam orang. Komunikasi terbuka dengan rekan tim adalah kunci dalam menyelaraskan visi dan tujuan bersama.",
+    "value2Title": "Terus belajar & berbagi",
+    "value2Desc": "Desainer sering menghadapi berbagai tantangan dan harus memberikan solusi yang efektif. Terus belajar dan mengembangkan keterampilan khusus sangat penting di bidang ini. Dengan mengasah kemampuan saya untuk memecahkan masalah kompleks, saya dapat membantu orang lain yang mungkin menghadapi tantangan serupa dengan berbagi pengalaman dan keahlian saya.",
+    "value3Title": "Menciptakan nilai",
+    "value3Desc": "Saya percaya pada prinsip desain \"value-first\", karena tujuan utama seorang desainer adalah membawa nilai kepada produk, bisnis, dan pengguna melalui desain. Memprioritaskan penciptaan nilai membimbing saya dalam membuat keputusan desain yang tepat.",
+    "iSpecializeIn": "Saya mengkhususkan diri dalam",
+    "iSpeak": "Saya berbicara",
+    "indonesian": "Bahasa Indonesia",
+    "english": "Bahasa Inggris",
+    "nativeSpeaker": "Penutur Asli",
+    "fullWorkingProficiency": "Kemampuan Kerja Penuh",
+    "softwareILove": "Software yang paling saya sukai",
+    "softwareDesc": "Saya terutama menggunakan Figma untuk mendesain apa pun dan mengeksplorasi ide baru, Cursor untuk coding berbantuan AI dan rapid prototyping, ChatGPT untuk riset dan ideasi, dan Lovable untuk membangun aplikasi web berkualitas tinggi dengan cepat. Saya juga menggunakan banyak alat lain untuk membuat proses desain & komunikasi saya lebih efisien.",
+    "myDesignProcess": "Proses desain saya",
+    "process1": "Memahami & Mendefinisikan",
+    "process1Desc": "User research\nHipotesis",
+    "process2": "Beride & Mengeksplorasi",
+    "process2Desc": "Brainstorming\nWireframing",
+    "process3": "Mendesain & Membangun",
+    "process3Desc": "Visual/UI Design\nPrototipe hi-fi",
+    "process4": "Menguji & Memvalidasi",
+    "process4Desc": "Usability test\nA/B testing",
+    "workingExperience": "Pengalaman kerja",
+    "designProcessNote": "Dalam pekerjaan saya sebelumnya, saya bekerja sama erat dengan Product Managers untuk mengidentifikasi masalah inti dan tujuan, kemudian bekerja dengan anggota tim lintas fungsi, termasuk Engineers dan Designers lainnya, untuk mengembangkan solusi yang optimal.",
+    "workSolusi247": {
+      "title": "UI/UX Designer (Contract)",
+      "company": "Solusi247",
+      "location": "Jakarta, Indonesia",
+      "period": "Mei 2023 – Sekarang",
+      "description": "Mendesain dan memelihara antarmuka pengguna yang dapat diskalakan untuk dashboard dan aplikasi web di seluruh sistem internal dan platform yang berorientasi pada klien. Berkolaborasi erat dengan tim produk dan pengembangan untuk memastikan kegunaan, konsistensi, dan kelayakan teknis. Berkontribusi pada sistem desain terstruktur dan meningkatkan efisiensi alur kerja melalui praktik desain yang berpusat pada pengguna."
+    },
+    "workUpwork": {
+      "title": "Freelance UI/UX Designer",
+      "company": "Upwork",
+      "location": "Remote",
+      "period": "Desember 2024 – Sekarang",
+      "description": "Menyediakan desain dashboard dan aplikasi web berkualitas tinggi untuk klien internasional di berbagai SaaS, kesehatan, e-commerce, dan alat internal.",
+      "earned": "penghasilan",
+      "clients": "klien",
+      "hours": "jam kerja",
+      "specialization": "Mengkhususkan diri dalam alur kerja berbantuan AI untuk mempercepat penelitian, ideasi, dan rapid prototyping sambil mempertahankan kejelasan dan kegunaan dalam sistem yang kompleks."
+    },
+    "workFiverr": {
+      "title": "Freelance UI/UX Designer",
+      "company": "Fiverr",
+      "location": "Remote",
+      "period": "November 2024 – Oktober 2025",
+      "description": "Mendesain dan menyediakan antarmuka yang berpusat pada pengguna untuk startup dan bisnis kecil.",
+      "earned": "penghasilan",
+      "clientsServed": "klien dilayani",
+      "focus": "Fokus pada UI dashboard, desain web app, dan website pemasaran dengan pemikiran UX terstruktur dan eksekusi visual yang presisi pixel."
+    },
+    "workPrimeSkills": {
+      "title": "UI/UX Design Intern",
+      "company": "PrimeSkills (VR & AR Company)",
+      "location": "Jakarta, Indonesia",
+      "period": "Februari 2023 – Agustus 2023",
+      "description": "Mendukung tim desain dalam menciptakan pengalaman pengguna yang imersif untuk aplikasi berbasis VR dan AR. Berkontribusi pada tata letak antarmuka, alur interaksi, dan peningkatan kegunaan untuk produk digital eksperimental. Mendapatkan pengalaman langsung dalam mengubah ide konseptual menjadi prototipe interaktif."
+    },
+    "community": "Saya terlibat dengan komunitas"
+  },
+  "contact": {
+    "title": "Kontak",
+    "meta": "Hubungi saya"
+  },
+  "resume": {
+    "title": "CV",
+    "meta": "Unduh CV",
+    "download": "Unduh CV"
+  },
+  "caseStudy": {
+    "overview": "Ringkasan",
+    "problem": "Masalah",
+    "constraints": "Batasan",
+    "approach": "Pendekatan",
+    "keyScreens": "Layar Utama",
+    "outcome": "Hasil",
+    "reflection": "Refleksi",
+    "nextProject": "Proyek berikutnya",
+    "role": "Peran",
+    "tools": "Alat",
+    "timeline": "Timeline",
+    "backToWork": "Kembali ke karya",
+    "onThisPage": "Di halaman ini",
+    "screen": "Layar",
+    "placeholderText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "close": "Tutup",
+    "enlargedPreview": "Pratinjau diperbesar"
+  }
+}

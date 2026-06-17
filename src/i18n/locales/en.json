@@ -1,0 +1,198 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "writing": "Writing",
+    "downloadResume": "Download Resume",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm Fandi Bayu 👋🏻",
+    "line1": "I'm a UI/UX Designer, UI/UX Engineer, and Web Designer with 3+ years of experience based in Jakarta, Indonesia.",
+    "line2": "I design and build dashboard & web app experiences—fast, structured, and AI-assisted.",
+    "aboutMe": "About Me",
+    "downloadResume": "Download Resume",
+    "motto": "And… yes, I can spend way too long perfecting spacing 😝",
+    "subheading": "A UI/UX Designer and Web Designer in Jakarta specializing in dashboards and web apps.",
+    "viewWork": "View Work",
+    "playful": "Designing interfaces that people actually enjoy using.",
+    "previewImage": "Preview image",
+    "close": "Close",
+    "projectPreview": "Project preview"
+  },
+  "featured": {
+    "title": "Latest Work",
+    "viewCaseStudy": "View case study",
+    "tabAll": "All",
+    "tabWebApp": "Web App",
+    "tabLandingPage": "Landing Page",
+    "tabDashboard": "Dashboard",
+    "tabMobileApp": "Mobile App",
+    "noProjectsInCategory": "No projects in this category yet."
+  },
+  "prototypes": {
+    "title": "Prototypes & Interactions",
+    "try": "Try",
+    "view": "View"
+  },
+  "upwork": {
+    "title": "Let's work together",
+    "subtitle": "Proven on Upwork — ready for your project",
+    "earned": "$10k+ earned",
+    "clients": "10+ clients",
+    "hours": "~1600 hours",
+    "primaryCta": "Book work together",
+    "secondaryCta": "Visit now",
+    "profileImageAlt": "Upwork profile screenshot"
+  },
+  "writing": {
+    "title": "Writing",
+    "readMore": "Read more",
+    "source": "Source: Medium",
+    "dummyNote": "dummy list. Replace with real posts.",
+    "allWriting": "All writing",
+    "posts": {
+      "designSystemBasics": {
+        "title": "Building a design system from scratch",
+        "excerpt": "How we defined tokens, components, and documentation for a growing product team.",
+        "date": "2024-01-15"
+      },
+      "dashboardUxTips": {
+        "title": "Dashboard UX: what actually moves the needle",
+        "excerpt": "Lessons from designing analytics and reporting interfaces for B2B users.",
+        "date": "2023-11-02"
+      },
+      "figmaToCode": {
+        "title": "From Figma to code with less friction",
+        "excerpt": "A practical workflow for UI/UX designers who also ship front-end.",
+        "date": "2023-09-20"
+      },
+      "accessibilityChecklist": {
+        "title": "A simple accessibility checklist for web apps",
+        "excerpt": "Focus management, contrast, and keyboard navigation in everyday UI.",
+        "date": "2023-07-08"
+      },
+      "jakartaDesignScene": {
+        "title": "Design scene in Jakarta: a short take",
+        "excerpt": "Observations on remote work, tools, and collaboration from Indonesia.",
+        "date": "2023-05-01"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "I worked with",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "footer": {
+    "headline": "Feel free to reach out — I'd love to help you design or build your next product.",
+    "email": "fandi.bayu110@gmail.com",
+    "work": "Work",
+    "about": "About",
+    "writing": "Writing",
+    "resume": "Resume",
+    "scrollToTop": "Scroll to top"
+  },
+  "work": {
+    "title": "Work",
+    "meta": "Case studies and selected projects"
+  },
+  "about": {
+    "title": "About",
+    "meta": "Learn more about Fandi Bayu",
+    "iLike": "I Like",
+    "greeting": "Hey, I'm Fandi. Great to meet you!",
+    "intro": "I'm a Jakarta-based UI/UX Designer & UI/UX Engineer with 3+ years of experience, specializing in dashboards and web applications. I work at the intersection of design, technology, and AI—creating clean, scalable experiences that support both user needs and business goals.",
+    "intro2": "With a hybrid design–technical background, I approach projects beyond visuals—considering usability, feasibility, and system structure from the start. I actively integrate AI tools like ChatGPT into my workflow to accelerate research and ideation while maintaining thoughtful, human-centered decisions.",
+    "myValues": "My values",
+    "value1Title": "Empathize others",
+    "value1Desc": "As designers, it is important to possess the ability to empathize with others and work with a variety of people. Open communication with teammates is key in aligning towards a shared vision and goal.",
+    "value2Title": "Keep learning & sharing",
+    "value2Desc": "Designers often face a range of challenges and must provide effective solutions. Continuing to learn and develop specialized skills is crucial in this field. By honing my ability to solve complex problems, I can help others who may be facing similar challenges by sharing my experiences and expertise.",
+    "value3Title": "Create values",
+    "value3Desc": "I believe in the principle of \"value-first\" design, as the primary purpose of a designer is to bring value to products, businesses, and users through design. Prioritizing the creation of value guides me in making the right design decisions.",
+    "iSpecializeIn": "I specialize in",
+    "iSpeak": "I speak",
+    "indonesian": "Indonesian (Bahasa Indonesia)",
+    "english": "English",
+    "nativeSpeaker": "Native Speaker",
+    "fullWorkingProficiency": "Full Working Proficiency",
+    "softwareILove": "Software I love the most",
+    "softwareDesc": "I mainly use Figma for designing anything and exploring new ideas, Cursor for AI-assisted coding and rapid prototyping, ChatGPT for research and ideation, and Lovable for building high-quality web applications quickly. I also use many other tools to make my design process & communication more efficient.",
+    "myDesignProcess": "My design process",
+    "process1": "Understand & Define",
+    "process1Desc": "User research\nHypothesis",
+    "process2": "Ideate & Explore",
+    "process2Desc": "Brainstorming\nWireframing",
+    "process3": "Design & Build",
+    "process3Desc": "Visual/UI Design\nHi-fi prototype",
+    "process4": "Test & Validate",
+    "process4Desc": "Usability test\nA/B testing",
+    "workingExperience": "Working experience",
+    "designProcessNote": "In my previous work, I closely collaborated with Product Managers to identify core problems and goals, then worked with cross-functional team members, including Engineers and other Designers, to develop optimal solutions.",
+    "workSolusi247": {
+      "title": "UI/UX Designer (Contract)",
+      "company": "Solusi247",
+      "location": "Jakarta, Indonesia",
+      "period": "May 2023 – Present",
+      "description": "Designing and maintaining scalable user interfaces for dashboards and web applications across internal systems and client-facing platforms. Collaborating closely with product and development teams to ensure usability, consistency, and technical feasibility. Contributing to structured design systems and improving workflow efficiency through user-centered design practices."
+    },
+    "workUpwork": {
+      "title": "Freelance UI/UX Designer",
+      "company": "Upwork",
+      "location": "Remote",
+      "period": "December 2024 – Present",
+      "description": "Delivering high-quality dashboard and web application designs for international clients across SaaS, healthcare, e-commerce, and internal tools.",
+      "earned": "earned",
+      "clients": "clients",
+      "hours": "working hours",
+      "specialization": "Specializing in AI-assisted workflows to accelerate research, ideation, and rapid prototyping while maintaining clarity and usability in complex systems."
+    },
+    "workFiverr": {
+      "title": "Freelance UI/UX Designer",
+      "company": "Fiverr",
+      "location": "Remote",
+      "period": "November 2024 – October 2025",
+      "description": "Designed and delivered user-centered interfaces for startups and small businesses.",
+      "earned": "earned",
+      "clientsServed": "clients served",
+      "focus": "Focused on dashboard UI, web app design, and marketing websites with structured UX thinking and pixel-precise visual execution."
+    },
+    "workPrimeSkills": {
+      "title": "UI/UX Design Intern",
+      "company": "PrimeSkills (VR & AR Company)",
+      "location": "Jakarta, Indonesia",
+      "period": "February 2023 – August 2023",
+      "description": "Supported the design team in creating immersive user experiences for VR and AR-based applications. Contributed to interface layouts, interaction flows, and usability improvements for experimental digital products. Gained hands-on experience in transforming conceptual ideas into interactive prototypes."
+    },
+    "community": "I'm engaged with community"
+  },
+  "contact": {
+    "title": "Contact",
+    "meta": "Get in touch"
+  },
+  "resume": {
+    "title": "Resume",
+    "meta": "Download resume",
+    "download": "Download Resume"
+  },
+  "caseStudy": {
+    "overview": "Overview",
+    "problem": "Problem",
+    "constraints": "Constraints",
+    "approach": "Approach",
+    "keyScreens": "Key Screens",
+    "outcome": "Outcome",
+    "reflection": "Reflection",
+    "nextProject": "Next project",
+    "role": "Role",
+    "tools": "Tools",
+    "timeline": "Timeline",
+    "backToWork": "Back to work",
+    "onThisPage": "On this page",
+    "screen": "Screen",
+    "placeholderText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "close": "Close",
+    "enlargedPreview": "Enlarged preview"
+  }
+}
