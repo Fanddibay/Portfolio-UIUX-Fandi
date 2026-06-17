@@ -1,0 +1,1 @@
+import{d as a,j as o,k as t,l,G as n,C as r}from"./vue-vendor-Cr_ddYuw.js";const c=["id"],p={class:"mx-auto max-w-6xl px-4 sm:px-6 lg:px-8"},m=a({__name:"SectionWrapper",props:{id:{},class:{}},setup(e){return(s,i)=>(r(),o("section",{id:e.id,class:t(["py-16 sm:py-20 lg:py-24",s.$attrs.class])},[l("div",p,[n(s.$slots,"default")])],10,c))}});export{m as _};
